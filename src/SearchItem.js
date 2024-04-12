@@ -16,7 +16,9 @@ const SearchItem = () => {
                         <th className=''>Quantity</th>
                     </tr>
                 </thead>
-                <tbody></tbody>
+                <tbody>
+                    <tr></tr>
+                </tbody>
             </table>
         </div>
     </>
